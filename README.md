@@ -1,6 +1,6 @@
 Graphs for reduced order chemical kinetics
 ======================================
-
+This project was done as a course project for ACMS 80770
 A systematic approach for chemical reaction mechanism reduction was developed
 and demonstrated. The approach consists of the use of reduction mechanism
 approaches such as directed relation graphs (DRG) and directed relation graphs
@@ -8,6 +8,8 @@ with error propagation (DRGEP). Both of these approaches are executed using
 graph search algorithms. DRG uses a depth-first search algorithm while DRGEP
 uses Dijkstra’s algorithm in a modified form to obtain clusters of relevant species
 to the target species.
+
+
 
 ## Getting Started
 
